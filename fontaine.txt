@@ -1,0 +1,573 @@
+Fonts
+  All fonts have the same character sets.
+  Font:
+    Common name: Amaranth
+    Sub family: Bold
+    Weight: bold
+    Fixed width: no
+    Fixed sizes: no
+    Copyright: Copyright (c) 2011 by Gesine Todt. All rights reserved.
+    License: Copyright (c) 2011 Amaranth by Gesine Todt www.gesine-todt.de. All rights reserved. This Font Software is licensed under the SIL Open Font License, Version 1.1.
+    License url: http://scripts.sil.org/OFL
+    Version: Version 1.000
+    Designer: Gesine Todt
+    Glyph count: 216
+    Character count: 216
+    Orthographies:
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 98
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+  Font:
+    Common name: Amaranth
+    Sub family: Bold Italic
+    Weight: bold
+    Fixed width: no
+    Fixed sizes: no
+    Copyright: Copyright (c) 2011 by Gesine Todt. All rights reserved.
+    License: Copyright (c) 2011 Amaranth by Gesine Todt www.gesine-todt.de. All rights reserved. This Font Software is licensed under the SIL Open Font License, Version 1.1.
+    License url: http://scripts.sil.org/OFL
+    Version: Version 1.000
+    Designer: Gesine Todt
+    Glyph count: 216
+    Character count: 216
+    Orthographies:
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 98
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+  Font:
+    Common name: Amaranth
+    Sub family: Italic
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: no
+    Copyright: Copyright (c) 2011 by Gesine Todt. All rights reserved.
+    License: Copyright (c) 2011 Amaranth by Gesine Todt www.gesine-todt.de. All rights reserved. This Font Software is licensed under the SIL Open Font License, Version 1.1.
+    License url: http://scripts.sil.org/OFL
+    Version: Version 1.000
+    Designer: Gesine Todt
+    Glyph count: 216
+    Character count: 216
+    Orthographies:
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 98
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+  Font:
+    Common name: Amaranth
+    Sub family: Regular
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: no
+    Copyright: Copyright (c) 2011 by Gesine Todt. All rights reserved.
+    License: Copyright (c) 2011 Amaranth by Gesine Todt www.gesine-todt.de. All rights reserved. This Font Software is licensed under the SIL Open Font License, Version 1.1.
+    License url: http://scripts.sil.org/OFL
+    Version: Version 1.000
+    Designer: Gesine Todt
+    Glyph count: 216
+    Character count: 216
+    Orthographies:
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 98
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+  Font:
+    Common name: Amaranth
+    Sub family: Bold
+    Weight: bold
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright (c) 2011 by Gesine Todt. All rights reserved.
+    License: Copyright (c) 2011 Amaranth by Gesine Todt www.gesine-todt.de. All rights reserved. This Font Software is licensed under the SIL Open Font License, Version 1.1.
+    License url: http://scripts.sil.org/OFL
+    Version: Version 1.000
+    Vendor: Gesine Todt
+    Designer: Gesine Todt
+    Designer url: http://www.gesine-todt.de
+    Glyph count: 216
+    Character count: 215
+    Orthographies:
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 98
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+  Font:
+    Common name: Amaranth
+    Sub family: Bold Italic
+    Weight: bold
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright (c) 2011 by Gesine Todt. All rights reserved.
+    License: Copyright (c) 2011 Amaranth by Gesine Todt www.gesine-todt.de. All rights reserved. This Font Software is licensed under the SIL Open Font License, Version 1.1.
+    License url: http://scripts.sil.org/OFL
+    Version: Version 1.000
+    Vendor: Gesine Todt
+    Designer: Gesine Todt
+    Designer url: http://www.gesine-todt.de
+    Glyph count: 223
+    Character count: 215
+    Orthographies:
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 98
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+  Font:
+    Common name: Amaranth
+    Sub family: Italic
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright (c) 2011 by Gesine Todt. All rights reserved.
+    License: Copyright (c) 2011 Amaranth by Gesine Todt www.gesine-todt.de. All rights reserved. This Font Software is licensed under the SIL Open Font License, Version 1.1.
+    License url: http://scripts.sil.org/OFL
+    Version: Version 1.000
+    Vendor: Gesine Todt
+    Designer: Gesine Todt
+    Designer url: http://www.gesine-todt.de
+    Glyph count: 216
+    Character count: 215
+    Orthographies:
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 98
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+  Font:
+    Common name: Amaranth
+    Sub family: Regular
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright (c) 2011 by Gesine Todt. All rights reserved.
+    License: Copyright (c) 2011 Amaranth by Gesine Todt www.gesine-todt.de. All rights reserved. This Font Software is licensed under the SIL Open Font License, Version 1.1.
+    License url: http://scripts.sil.org/OFL
+    Version: Version 1.000
+    Vendor: Gesine Todt
+    Designer: Gesine Todt
+    Designer url: http://www.gesine-todt.de
+    Glyph count: 216
+    Character count: 215
+    Orthographies:
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 98
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+  Font:
+    Common name: Amaranth
+    Sub family: Bold
+    Weight: bold
+    Fixed width: no
+    Fixed sizes: no
+    Copyright: Copyright (c) 2011 by Gesine Todt. All rights reserved.
+    License: Copyright (c) 2011 Amaranth by Gesine Todt www.gesine-todt.de. All rights reserved. This Font Software is licensed under the SIL Open Font License, Version 1.1.
+    License url: http://scripts.sil.org/OFL
+    Version: Version 1.000
+    Vendor: Gesine Todt
+    Vendor url: http://www.gesine-todt.de
+    Designer: Gesine Todt
+    Designer url: http://www.gesine-todt.de
+    Glyph count: 218
+    Character count: 215
+    Orthographies:
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 98
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+  Font:
+    Common name: Amaranth
+    Sub family: Bold Italic
+    Weight: bold
+    Fixed width: no
+    Fixed sizes: no
+    Copyright: Copyright (c) 2011 by Gesine Todt. All rights reserved.
+    License: Copyright (c) 2011 Amaranth by Gesine Todt www.gesine-todt.de. All rights reserved. This Font Software is licensed under the SIL Open Font License, Version 1.1.
+    License url: http://scripts.sil.org/OFL
+    Version: Version 1.000
+    Vendor: Gesine Todt
+    Designer: Gesine Todt
+    Designer url: http://www.gesine-todt.de
+    Glyph count: 218
+    Character count: 215
+    Orthographies:
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 98
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+  Font:
+    Common name: Amaranth
+    Sub family: Italic
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: no
+    Copyright: Copyright (c) 2011 by Gesine Todt. All rights reserved.
+    License: Copyright (c) 2011 Amaranth by Gesine Todt www.gesine-todt.de. All rights reserved. This Font Software is licensed under the SIL Open Font License, Version 1.1.
+    License url: http://scripts.sil.org/OFL
+    Version: Version 1.000
+    Vendor: Gesine Todt
+    Designer: Gesine Todt
+    Designer url: http://www.gesine-todt.de
+    Glyph count: 218
+    Character count: 215
+    Orthographies:
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 98
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+  Font:
+    Common name: Amaranth
+    Sub family: Regular
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: no
+    Copyright: Copyright (c) 2011 by Gesine Todt. All rights reserved.
+    License: Copyright (c) 2011 Amaranth by Gesine Todt www.gesine-todt.de. All rights reserved. This Font Software is licensed under the SIL Open Font License, Version 1.1.
+    License url: http://scripts.sil.org/OFL
+    Version: Version 1.000
+    Vendor: Gesine Todt
+    Designer: Gesine Todt
+    Designer url: http://www.gesine-todt.de
+    Glyph count: 218
+    Character count: 215
+    Orthographies:
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 98
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+  Font:
+    Common name: Amaranth
+    Sub family: Bold
+    Weight: bold
+    Fixed width: no
+    Fixed sizes: no
+    Copyright: Copyright (c) 2011 by Gesine Todt. All rights reserved.
+    License: Copyright (c) 2011 Amaranth by Gesine Todt www.gesine-todt.de. All rights reserved. This Font Software is licensed under the SIL Open Font License, Version 1.1.
+    License url: http://scripts.sil.org/OFL
+    Version: Version 1.000
+    Vendor: Gesine Todt
+    Vendor url: http://www.gesine-todt.de
+    Designer: Gesine Todt
+    Designer url: http://www.gesine-todt.de
+    Glyph count: 218
+    Character count: 215
+    Orthographies:
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 98
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+  Font:
+    Common name: Amaranth
+    Sub family: Bold Italic
+    Style: italic
+    Weight: bold
+    Fixed width: no
+    Fixed sizes: no
+    Copyright: Copyright (c) 2011 by Gesine Todt. All rights reserved.
+    License: This Font Software is licensed under the SIL Open Font License, Version 1.1.
+    License url: http://scripts.sil.org/OFL
+    Version: Version 1.000
+    Vendor: Gesine Todt
+    Designer: Gesine Todt
+    Designer url: http://www.gesine-todt.de
+    Glyph count: 225
+    Character count: 215
+    Orthographies:
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 98
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+  Font:
+    Common name: Amaranth
+    Sub family: Italic
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: no
+    Copyright: Copyright (c) 2011 by Gesine Todt. All rights reserved.
+    License: Copyright (c) 2011 Amaranth by Gesine Todt www.gesine-todt.de. All rights reserved. This Font Software is licensed under the SIL Open Font License, Version 1.1.
+    License url: http://scripts.sil.org/OFL
+    Version: Version 1.000
+    Vendor: Gesine Todt
+    Designer: Gesine Todt
+    Designer url: http://www.gesine-todt.de
+    Glyph count: 218
+    Character count: 215
+    Orthographies:
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 98
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+  Font:
+    Common name: Amaranth
+    Sub family: Regular
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: no
+    Copyright: Copyright (c) 2011 by Gesine Todt. All rights reserved.
+    License: Copyright (c) 2011 Amaranth by Gesine Todt www.gesine-todt.de. All rights reserved. This Font Software is licensed under the SIL Open Font License, Version 1.1.
+    License url: http://scripts.sil.org/OFL
+    Version: Version 1.000
+    Vendor: Gesine Todt
+    Designer: Gesine Todt
+    Designer url: http://www.gesine-todt.de
+    Glyph count: 218
+    Character count: 215
+    Orthographies:
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 98
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23

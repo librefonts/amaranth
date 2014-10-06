@@ -1,0 +1,9 @@
+commit: HEAD
+process_files: [src/Amaranth-Regular.ufo, src/Amaranth-Italic.ufo, src/Amaranth-BoldItalic.ufo,
+  src/Amaranth-Bold.ufo, Amaranth-Regular.ttf.ttx, Amaranth-Italic.ttf.ttx, Amaranth-BoldItalic.ttf.ttx,
+  Amaranth-Bold.ttf.ttx, src/Amaranth-Regular.otf.ttx, src/Amaranth-Regular-hinting_source.ttf.ttx,
+  src/Amaranth-Italic.otf.ttx, src/Amaranth-Italic-hinting_source.ttf.ttx, src/Amaranth-BoldItalic.otf.ttx,
+  src/Amaranth-BoldItalic-hinting_source.ttf.ttx, src/Amaranth-Bold.otf.ttx, src/Amaranth-Bold-hinting_source.ttf.ttx]
+pyftsubset: --notdef-outline --name-IDs=* --hinting
+subset: [latin]
+ttfautohint: -l 7 -r 28 -G 50 -x 13 -w "G"
